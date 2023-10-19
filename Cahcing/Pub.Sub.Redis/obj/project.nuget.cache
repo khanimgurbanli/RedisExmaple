@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/inH/aSL9gnLn7JKEAyYbwNT2xLxYxe8wSGBKJ0CssCt+M5hVf3tnS35qf8+viaiRhHAbIfry5O+28VtJA0zEA==",
+  "success": true,
+  "projectFilePath": "D:\\ChachingOperations\\Cahcing\\Pub.Sub.Redis\\Pub.Sub.Redis.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KHANIM\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\KHANIM\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\KHANIM\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

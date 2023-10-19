@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zUWWnQK9feedmCKMenUR7KllwSIY21QsWBYpBmcOTCc=",
+  "Source": "Redis.Sentinels",
+  "BasePath": "_content/Redis.Sentinels",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
