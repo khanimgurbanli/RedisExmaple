@@ -46,9 +46,6 @@ namespace Redis.Sentinels.Services
                 "192.168.96.3:6379" => "localhost:6380",
                 "192.168.96.4:6379" => "localhost:6381",
                 "192.168.96.5:6379" => "localhost:6382",
-                "192.168.96.6:6379" => "localhost:6383",
-                "192.168.96.7:6379" => "localhost:6384",
-                "192.168.96.8:6379" => "localhost:6385",
             };
 
             ConnectionMultiplexer masterConnection = await ConnectionMultiplexer.ConnectAsync(localMasterIP);
